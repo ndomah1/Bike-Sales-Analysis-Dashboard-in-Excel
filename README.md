@@ -13,6 +13,8 @@
 - [Usage Instructions](#usage-instructions)
 - [Visualization](#visualization)
 
+![Bike Sales Analysis Dashboard.png](https://github.com/ndomah1/Bike-Sales-Analysis-Dashboard-in-Excel/blob/main/dashboard.png)
+
 ## **Overview**
 
 This project explores customer data to identify patterns in bike purchases. Using Excel, we cleaned the dataset, built pivot tables, and created an interactive dashboard to highlight key insights into customer demographics and buying behaviors.
