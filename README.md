@@ -55,6 +55,6 @@ The dataset used in this analysis is available on Kaggle: [Bike Sales Dataset](h
 
 ### **Visualization**
 
-![Bike Sales Analysis Dashboard.png](Bike_Sales_Analysis_Dashboard.png)
+![Bike Sales Analysis Dashboard.png](https://github.com/ndomah1/Bike-Sales-Analysis-Dashboard-in-Excel/blob/main/dashboard.png)
 
 This project highlights the power of Excel for data analysis, helping businesses better understand their customers. Feel free to explore and customize the dashboard to gain even deeper insights!
